@@ -1,8 +1,10 @@
 # Contributor Covenant 3.0 Code of Conduct
 
-## Scope 
+## Scope
 
-This Code of Conduct applies to all contributions on GitHub community spaces. If you're looking to make code contributions, please [visit link here?]
+This Code of Conduct applies to all contributions on GitHub community spaces.
+
+If you're looking for other Zooniverse community guidelines, please see [Zooniverse Talk Community Standards](https://www.zooniverse.org/talk/14/672147) and [Zooniverse Help](https://help.zooniverse.org/).
 
 
 ## Our Pledge
@@ -51,14 +53,12 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, it is important to report it promptly. To report a possible violation, please email contact@zoonivere.org with 1) a link to the particular GitHub page 2) the particular violation (comment, for example), 3) any additional information you think is relevant. Zooniverse take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+When an incident does occur, it is important to report it promptly. To report a possible violation, please email contact@zoonivere.org with 1) a link to the relevant GitHub page 2) the particular violation (a comment, for example), 3) any additional information you think is relevant. Zooniverse take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
 
 ## Addressing and Repairing Harm
 
 If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
-
-[ZOO-NOTE: We have to test this process to know which/how the features work with GH]
 
 1) Warning
    1) Event: A violation involving a single incident or series of incidents.
@@ -78,8 +78,6 @@ If an investigation by the Community Moderators finds that this Code of Conduct 
    3) Repair: There is no possible repair in cases of this severity.
 
 This enforcement ladder is intended as a guideline. It does not limit the ability of Zooniverse team to use their discretion and judgment, in keeping with the best interests of our community.
-
-[ZOONOTE: Make sure to add/cross-reference to the Moderation Playbook?]
 
 
 ## Attribution
